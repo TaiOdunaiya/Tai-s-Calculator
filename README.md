@@ -1,4 +1,6 @@
 # Tai-s-Calculator
+![image](https://github.com/TaiOdunaiya/Tai-s-Calculator/assets/52798951/e7e8bcda-dae0-4922-ad0f-b2954eb27f90)
+
 Tai's Calculator [C#]
 
 This C# Calculator is a versatile and user-friendly application designed to simplify your mathematical tasks. Whether you're a student, programmer, or just need quick calculations, this calculator has got you covered.
