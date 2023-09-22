@@ -1,0 +1,19 @@
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.exe.config
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.exe
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.pdb
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.csprojAssemblyReference.cache
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai_s_Calculator.Form1.resources
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai_s_Calculator.Properties.Resources.resources
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.csproj.GenerateResource.cache
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.exe
+C:\Users\Taiodunaiya\source\repos\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.pdb
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.exe.config
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.exe
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\bin\Debug\Tai's Calculator.pdb
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.csprojAssemblyReference.cache
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai_s_Calculator.Form1.resources
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai_s_Calculator.Properties.Resources.resources
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.csproj.GenerateResource.cache
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.exe
+C:\Users\t_dog\Desktop\Development\Tai's Calculator\Tai's Calculator\obj\Debug\Tai's Calculator.pdb
